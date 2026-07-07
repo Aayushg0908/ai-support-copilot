@@ -1,0 +1,2144 @@
+[
+  {
+    "title": "Error when trying to upload images",
+    "description": "When I try to upload an image, it fails with an error message saying 'Failed to upload file'. The issue has been happening every time since the last update.",
+    "priority": "low",
+    "category": "bug"
+  },
+  {
+    "title": "Login Issues",
+    "description": "I've been having trouble logging in for the past hour. Every time I enter my credentials, the system says my password is incorrect, but I'm certain it's correct.",
+    "priority": "medium",
+    "category": "bug"
+  },
+  {
+    "title": "Crash on startup",
+    "description": "The software crashes as soon as I try to start it up. It happens every time, and I have to force quit and reinstall.",
+    "priority": "high",
+    "category": "bug"
+  },
+  {
+    "title": "Incorrect data entry",
+    "description": "I've noticed that the data entry feature is not working correctly. Sometimes it doesn't recognize the input I'm typing, or it enters incorrect information.",
+    "priority": "medium",
+    "category": "bug"
+  },
+  {
+    "title": "Error when trying to create new project",
+    "description": "When I try to create a new project, I get an error message saying 'Project already exists'. However, I know for certain that this is my first project in the software.",
+    "priority": "low",
+    "category": "bug"
+  },
+  {
+    "title": "Feature not working as expected",
+    "description": "I'm having trouble with the feature that's supposed to automate tasks. It's not working at all, and I've tried restarting the software multiple times without any success.",
+    "priority": "medium",
+    "category": "bug"
+  },
+  {
+    "title": "System crash after 5 minutes of inactivity",
+    "description": "The system crashes every 5 minutes, even if I'm actively using it. This is really frustrating and needs to be fixed ASAP.",
+    "priority": "high",
+    "category": "bug"
+  },
+  {
+    "title": "Upload limit reached",
+    "description": "I'm getting an error message saying that the upload limit has been reached. However, I know I haven't uploaded anything close to this limit yet.",
+    "priority": "low",
+    "category": "bug"
+  },
+  {
+    "title": "Error when trying to export data",
+    "description": "When I try to export my data, it fails with an error message saying 'Data not found'. This is really inconvenient since I need access to my data regularly.",
+    "priority": "medium",
+    "category": "bug"
+  },
+  {
+    "title": "Software freezes on certain pages",
+    "description": "The software freezes every time I try to access the 'Settings' page. It happens even after a full reboot, which is really frustrating.",
+    "priority": "high",
+    "category": "bug"
+  },
+  {
+    "title": "Data entry issues with specific symbols",
+    "description": "I'm having trouble entering certain characters (like accents or special symbols) into the data entry field. The software doesn't recognize them correctly.",
+    "priority": "medium",
+    "category": "bug"
+  },
+  {
+    "title": "Error when trying to delete project",
+    "description": "When I try to delete a project, I get an error message saying 'Project not found'. However, I know for certain that this is my project.",
+    "priority": "low",
+    "category": "bug"
+  },
+  {
+    "title": "Crash on exit",
+    "description": "The software crashes every time I try to close it. This happens even after a full reboot of the computer.",
+    "priority": "high",
+    "category": "bug"
+  },
+  {
+    "title": "Feature not working with specific data",
+    "description": "I'm having trouble using the feature that's supposed to analyze my data. It doesn't work correctly with certain types of data, like dates or times.",
+    "priority": "medium",
+    "category": "bug"
+  },
+  {
+    "title": "System crashes when trying to open certain files",
+    "description": "The system crashes every time I try to open a specific type of file (like Excel documents). This is really inconvenient since I need access to those files regularly.",
+    "priority": "high",
+    "category": "bug"
+  },
+  {
+    "title": "Error message doesn't make sense",
+    "description": "When I get an error message, it usually says something like 'Unknown error' or 'Internal server error'. It's really confusing and doesn't provide any helpful information about what went wrong.",
+    "priority": "low",
+    "category": "bug"
+  },
+  {
+    "title": "Feature not working with multiple users",
+    "description": "I'm having trouble using the feature that's supposed to collaborate with multiple users. It only works correctly when there's only one user logged in.",
+    "priority": "medium",
+    "category": "bug"
+  },
+  {
+    "title": "Software crashes on certain hardware configurations",
+    "description": "The software crashes every time I try to run it on a specific type of hardware (like an older laptop). This is really frustrating since I need access to the software regularly.",
+    "priority": "high",
+    "category": "bug"
+  },
+  {
+    "title": "Data entry issues with formatting",
+    "description": "I'm having trouble entering data into certain fields because of formatting issues. The software doesn't recognize certain types of formatting, like tabs or line breaks.",
+    "priority": "medium",
+    "category": "bug"
+  },
+  {
+    "title": "Error when trying to backup data",
+    "description": "When I try to backup my data, it fails with an error message saying 'Data not found'. This is really inconvenient since I need access to my data regularly.",
+    "priority": "low",
+    "category": "bug"
+  },
+  {
+    "title": "Feature not working with certain plugins",
+    "description": "I'm having trouble using the feature that's supposed to integrate with certain plugins. It doesn't work correctly with those plugins, even though they're installed and updated correctly.",
+    "priority": "medium",
+    "category": "bug"
+  },
+  {
+    "title": "System crashes when trying to access certain web pages",
+    "description": "The system crashes every time I try to access a specific type of web page (like a website with JavaScript). This is really frustrating since I need access to those websites regularly.",
+    "priority": "high",
+    "category": "bug"
+  },
+  {
+    "title": "Data entry issues with keyboard shortcuts",
+    "description": "I'm having trouble using certain keyboard shortcuts in the data entry field. The software doesn't recognize them correctly, even though they're standard shortcuts for most applications.",
+    "priority": "medium",
+    "category": "bug"
+  },
+  {
+    "title": "Error when trying to import data",
+    "description": "When I try to import my data from another program, it fails with an error message saying 'Data format not supported'. This is really inconvenient since I need access to my data regularly.",
+    "priority": "low",
+    "category": "bug"
+  },
+  {
+    "title": "Feature not working with large datasets",
+    "description": "I'm having trouble using the feature that's supposed to analyze large datasets. It doesn't work correctly with those types of datasets, even though they're in a standard format.",
+    "priority": "medium",
+    "category": "bug"
+  },
+  {
+    "title": "System crashes when trying to open certain files with specific extensions",
+    "description": "The system crashes every time I try to open a file with a specific extension (like .docx). This is really inconvenient since I need access to those files regularly.",
+    "priority": "high",
+    "category": "bug"
+  },
+  {
+    "title": "Error message doesn't provide any helpful information",
+    "description": "When I get an error message, it usually just says 'An error has occurred' or something similar. It doesn't provide any helpful information about what went wrong or how to fix the issue.",
+    "priority": "low",
+    "category": "bug"
+  },
+  {
+    "title": "Feature not working with specific browser versions",
+    "description": "I'm having trouble using the feature that's supposed to work seamlessly across different browsers. It only works correctly in certain browser versions, even though they're relatively modern.",
+    "priority": "medium",
+    "category": "bug"
+  },
+  {
+    "title": "Software crashes on startup when trying to access certain modules",
+    "description": "The software crashes every time I try to start it up and access a specific module (like the 'Reports' page). This is really frustrating since I need access to those features regularly.",
+    "priority": "high",
+    "category": "bug"
+  },
+  {
+    "title": "Data entry issues with formatting in specific fields",
+    "description": "I'm having trouble entering data into certain fields because of formatting issues. The software doesn't recognize certain types of formatting, like line breaks or tabs, in those fields.",
+    "priority": "medium",
+    "category": "bug"
+  },
+  {
+    "title": "Error when trying to delete a project",
+    "description": "When I try to delete a project, I get an error message saying 'Project not found'. This is really inconvenient since I need access to my data regularly.",
+    "priority": "low",
+    "category": "bug"
+  },
+  {
+    "title": "Feature not working with certain operating systems",
+    "description": "I'm having trouble using the feature that's supposed to work seamlessly across different operating systems. It only works correctly in certain OS versions, even though they're relatively modern.",
+    "priority": "medium",
+    "category": "bug"
+  },
+  {
+    "title": "Auto-Complete Feature for Search Bar",
+    "description": "I'd like to suggest an auto-complete feature in our search bar, similar to what Google uses.",
+    "priority": "low",
+    "category": "feature_request"
+  },
+  {
+    "title": "Integration with Third-Party CRM",
+    "description": "We're using a third-party CRM and would love to see integration with your platform to sync customer data.",
+    "priority": "medium",
+    "category": "feature_request"
+  },
+  {
+    "title": "Mobile App Notification System",
+    "description": "It would be great to have a customizable notification system for our mobile app, similar to what iOS offers.",
+    "priority": "high",
+    "category": "feature_request"
+  },
+  {
+    "title": "Data Export Feature",
+    "description": "We need to export large datasets regularly and would appreciate the ability to do so in bulk.",
+    "priority": "medium",
+    "category": "feature_request"
+  },
+  {
+    "title": "Voice Assistant Integration",
+    "description": "Would it be possible to integrate our platform with popular voice assistants like Alexa or Google Assistant?",
+    "priority": "low",
+    "category": "feature_request"
+  },
+  {
+    "title": "Error Reporting for API Calls",
+    "description": "We'd love to see improved error reporting for our API calls, including more detailed error messages.",
+    "priority": "medium",
+    "category": "feature_request"
+  },
+  {
+    "title": "Customizable Dashboards",
+    "description": "I'd like to request the ability to create custom dashboards with different layouts and widgets.",
+    "priority": "low",
+    "category": "feature_request"
+  },
+  {
+    "title": "Import/Export CSV Feature",
+    "description": "It would be helpful to have a feature that allows users to import and export data in CSV format.",
+    "priority": "medium",
+    "category": "feature_request"
+  },
+  {
+    "title": "Push Notifications for Mobile App",
+    "description": "We'd like to see push notifications implemented for our mobile app, similar to what Android offers.",
+    "priority": "high",
+    "category": "feature_request"
+  },
+  {
+    "title": "Data Visualization Tool",
+    "description": "I'd love to suggest the integration of a data visualization tool within our platform.",
+    "priority": "low",
+    "category": "feature_request"
+  },
+  {
+    "title": "API Key Management",
+    "description": "We need more control over API keys, such as the ability to create custom key pairs and revoke existing ones.",
+    "priority": "medium",
+    "category": "feature_request"
+  },
+  {
+    "title": "Customizable Email Templates",
+    "description": "I'd like to request the ability to create custom email templates with different layouts and designs.",
+    "priority": "low",
+    "category": "feature_request"
+  },
+  {
+    "title": "User Role Management",
+    "description": "We need more advanced user role management, including fine-grained access control and permission management.",
+    "priority": "high",
+    "category": "feature_request"
+  },
+  {
+    "title": "Integration with Google Drive",
+    "description": "It would be great to see integration with Google Drive, allowing users to upload files directly to our platform.",
+    "priority": "medium",
+    "category": "feature_request"
+  },
+  {
+    "title": "Customizable Search Filters",
+    "description": "I'd like to request the ability to create custom search filters for our data, including advanced filtering and grouping options.",
+    "priority": "low",
+    "category": "feature_request"
+  },
+  {
+    "title": "Notification System for New Data Uploads",
+    "description": "We need a notification system that alerts users when new data is uploaded to our platform.",
+    "priority": "medium",
+    "category": "feature_request"
+  },
+  {
+    "title": "Export CSV with Custom Fields",
+    "description": "I'd love to see the ability to export CSV files with custom fields, including the ability to sort and filter by specific fields.",
+    "priority": "low",
+    "category": "feature_request"
+  },
+  {
+    "title": "Integration with Salesforce",
+    "description": "We're currently using Salesforce and would like to integrate our platform with it for seamless data sharing.",
+    "priority": "high",
+    "category": "feature_request"
+  },
+  {
+    "title": "Data Validation and Cleaning",
+    "description": "I'd like to request the ability to validate and clean data within our platform, including automated error checking and correction.",
+    "priority": "medium",
+    "category": "feature_request"
+  },
+  {
+    "title": "Customizable Widget Layouts",
+    "description": "We need more flexibility in terms of widget layouts, including the ability to create custom designs and arrangements.",
+    "priority": "low",
+    "category": "feature_request"
+  },
+  {
+    "title": "Integration with Amazon Web Services (AWS)",
+    "description": "It would be great to see integration with AWS, allowing users to upload files directly to our platform and manage data in the cloud.",
+    "priority": "high",
+    "category": "feature_request"
+  },
+  {
+    "title": "Error Reporting for Complex Queries",
+    "description": "We'd love to see improved error reporting for complex queries, including more detailed error messages and suggestions for improvement.",
+    "priority": "medium",
+    "category": "feature_request"
+  },
+  {
+    "title": "Mobile App Support for Large Files",
+    "description": "I'd like to request the ability to upload large files directly from our mobile app, without having to wait for a desktop connection.",
+    "priority": "low",
+    "category": "feature_request"
+  },
+  {
+    "title": "Customizable Report Filters",
+    "description": "We need more flexibility in terms of report filters, including the ability to create custom filters and groupings.",
+    "priority": "medium",
+    "category": "feature_request"
+  },
+  {
+    "title": "Integration with Microsoft Azure",
+    "description": "It would be great to see integration with Microsoft Azure, allowing users to upload files directly to our platform and manage data in the cloud.",
+    "priority": "high",
+    "category": "feature_request"
+  },
+  {
+    "title": "Data Analysis Tool",
+    "description": "I'd love to suggest the integration of a data analysis tool within our platform, including advanced statistical and machine learning capabilities.",
+    "priority": "low",
+    "category": "feature_request"
+  },
+  {
+    "title": "Notification System for Data Updates",
+    "description": "We need a notification system that alerts users when data is updated or changed within our platform.",
+    "priority": "medium",
+    "category": "feature_request"
+  },
+  {
+    "title": "Customizable User Interface",
+    "description": "I'd like to request the ability to create custom user interfaces with different layouts, designs, and themes.",
+    "priority": "low",
+    "category": "feature_request"
+  },
+  {
+    "title": "Error with password reset link",
+    "description": "I tried to reset my password using the link sent to me, but it kept redirecting me back to the login page. I've checked that my email address is correct and that I have a valid internet connection.",
+    "priority": "low",
+    "category": "support"
+  },
+  {
+    "title": "Troubleshooting issue with payment processing",
+    "description": "I'm having trouble completing my purchase because the system keeps asking me to enter my credit card information again. I've checked that everything is correct and that my card isn't expired.",
+    "priority": "medium",
+    "category": "support"
+  },
+  {
+    "title": "Help with customizing my theme",
+    "description": "I want to change the color scheme of my website, but I'm having trouble finding the settings to do so. Can you please help me?",
+    "priority": "low",
+    "category": "support"
+  },
+  {
+    "title": "Error with login credentials",
+    "description": "I keep getting an error message saying that my login credentials are incorrect when in fact they're correct. I've tried restarting my browser and checking for typos.",
+    "priority": "medium",
+    "category": "support"
+  },
+  {
+    "title": "Issue with download file size limit",
+    "description": "I'm trying to download a large file, but the system is saying that it's too big. Can you please help me figure out why this is happening?",
+    "priority": "high",
+    "category": "support"
+  },
+  {
+    "title": "How do I reset my password?",
+    "description": "I've forgotten my password and can't log in to my account. Can you please provide instructions on how to reset it?",
+    "priority": "low",
+    "category": "support"
+  },
+  {
+    "title": "Error with upload file size limit",
+    "description": "I'm trying to upload a large image, but the system is saying that it's too big. Can you please help me figure out why this is happening?",
+    "priority": "high",
+    "category": "support"
+  },
+  {
+    "title": "Troubleshooting issue with payment processing - recurring subscription",
+    "description": "I'm having trouble renewing my subscription because the system keeps asking me to enter my credit card information again. I've checked that everything is correct and that my card isn't expired.",
+    "priority": "medium",
+    "category": "support"
+  },
+  {
+    "title": "How do I change my theme?",
+    "description": "I want to change the look and feel of my website, but I'm having trouble finding the settings to do so. Can you please help me?",
+    "priority": "low",
+    "category": "support"
+  },
+  {
+    "title": "Error with login credentials - forgotten password",
+    "description": "I've forgotten my password and can't log in to my account. Can you please provide instructions on how to reset it?",
+    "priority": "medium",
+    "category": "support"
+  },
+  {
+    "title": "Troubleshooting issue with payment processing - one-time payment",
+    "description": "I'm having trouble completing a one-time payment because the system keeps asking me to enter my credit card information again. I've checked that everything is correct and that my card isn't expired.",
+    "priority": "medium",
+    "category": "support"
+  },
+  {
+    "title": "How do I cancel my subscription?",
+    "description": "I want to stop receiving updates from your service, but I'm having trouble finding the settings to do so. Can you please help me?",
+    "priority": "low",
+    "category": "support"
+  },
+  {
+    "title": "Error with upload file size limit - large video",
+    "description": "I'm trying to upload a large video, but the system is saying that it's too big. Can you please help me figure out why this is happening?",
+    "priority": "high",
+    "category": "support"
+  },
+  {
+    "title": "Troubleshooting issue with login credentials",
+    "description": "I keep getting an error message saying that my login credentials are incorrect when in fact they're correct. I've tried restarting my browser and checking for typos.",
+    "priority": "medium",
+    "category": "support"
+  },
+  {
+    "title": "How do I reset my password using a recovery code?",
+    "description": "I want to use a recovery code to reset my password, but I'm having trouble finding the settings to do so. Can you please help me?",
+    "priority": "low",
+    "category": "support"
+  },
+  {
+    "title": "Error with payment processing - declined card",
+    "description": "I keep getting an error message saying that my credit card was declined when in fact it wasn't. I've tried checking for expiration dates and available balance.",
+    "priority": "medium",
+    "category": "support"
+  },
+  {
+    "title": "Troubleshooting issue with password reset link",
+    "description": "I tried to reset my password using the link sent to me, but it kept redirecting me back to the login page. I've checked that my email address is correct and that I have a valid internet connection.",
+    "priority": "low",
+    "category": "support"
+  },
+  {
+    "title": "How do I change my account settings?",
+    "description": "I want to update some of my account settings, but I'm having trouble finding the settings to do so. Can you please help me?",
+    "priority": "low",
+    "category": "support"
+  },
+  {
+    "title": "Error with login credentials - incorrect username",
+    "description": "I keep getting an error message saying that my username is incorrect when in fact it's correct. I've tried checking for typos and ensuring that the correct email address was used.",
+    "priority": "medium",
+    "category": "support"
+  },
+  {
+    "title": "Troubleshooting issue with download file size limit",
+    "description": "I'm trying to download a large file, but the system is saying that it's too big. Can you please help me figure out why this is happening?",
+    "priority": "high",
+    "category": "support"
+  },
+  {
+    "title": "How do I cancel my subscription without an account?",
+    "description": "I want to stop receiving updates from your service, but I don't have an account set up yet. Can you please help me find the correct settings to do so?",
+    "priority": "low",
+    "category": "support"
+  },
+  {
+    "title": "Error with upload file size limit - image",
+    "description": "I'm trying to upload an image, but the system is saying that it's too big. Can you please help me figure out why this is happening?",
+    "priority": "high",
+    "category": "support"
+  },
+  {
+    "title": "Troubleshooting issue with password reset link",
+    "description": "I tried to reset my password using the link sent to me, but it kept redirecting me back to the login page. I've checked that my email address is correct and that I have a valid internet connection.",
+    "priority": "low",
+    "category": "support"
+  },
+  {
+    "title": "How do I update my account information?",
+    "description": "I want to change some of my account settings, but I'm having trouble finding the settings to do so. Can you please help me?",
+    "priority": "low",
+    "category": "support"
+  },
+  {
+    "title": "Error with login credentials - forgotten password",
+    "description": "I've forgotten my password and can't log in to my account. Can you please provide instructions on how to reset it?",
+    "priority": "medium",
+    "category": "support"
+  },
+  {
+    "title": "Overdue payment on subscription",
+    "description": "I haven't received my March invoice yet, and I'm still charged $100.00. Can you please help me understand why?",
+    "priority": "medium",
+    "category": "billing"
+  },
+  {
+    "title": "Incorrect bill amount",
+    "description": "Received a bill for $1,500 instead of the expected $1,200. Please clarify the discrepancy.",
+    "priority": "low",
+    "category": "billing"
+  },
+  {
+    "title": "Payment failed due to invalid card info",
+    "description": "I tried to make a payment but was declined because my credit card is expired. Can I update my payment method?",
+    "priority": "medium",
+    "category": "billing"
+  },
+  {
+    "title": "Missing invoice for January",
+    "description": "No invoice arrived this month, and I haven't received any notifications about it.",
+    "priority": "high",
+    "category": "billing"
+  },
+  {
+    "title": "Refund not processed correctly",
+    "description": "I requested a refund for December but wasn't credited back to my account. Can you investigate?",
+    "priority": "medium",
+    "category": "billing"
+  },
+  {
+    "title": "Payment method update request",
+    "description": "Can I change my payment method from credit card to PayPal?",
+    "priority": "low",
+    "category": "billing"
+  },
+  {
+    "title": "Unpaid subscription fee",
+    "description": "I didn't pay the December fee, and now I'm being charged late fees. Can we discuss options for payment?",
+    "priority": "high",
+    "category": "billing"
+  },
+  {
+    "title": "Missing discount applied to bill",
+    "description": "I was supposed to receive a 10% discount but it wasn't reflected on my February invoice.",
+    "priority": "medium",
+    "category": "billing"
+  },
+  {
+    "title": "Failed payment and duplicate charge",
+    "description": "Payment failed, and now I'm being charged again for the same amount. Can this be resolved?",
+    "priority": "high",
+    "category": "billing"
+  },
+  {
+    "title": "Error on subscription renewal",
+    "description": "I tried to renew my subscription but got an error message saying it wasn't successful.",
+    "priority": "medium",
+    "category": "billing"
+  },
+  {
+    "title": "Payment confirmation not received",
+    "description": "Can I confirm that my payment was processed successfully?",
+    "priority": "low",
+    "category": "billing"
+  },
+  {
+    "title": "Missing statement for November",
+    "description": "No invoice arrived this month, and I haven't received any notifications about it.",
+    "priority": "high",
+    "category": "billing"
+  },
+  {
+    "title": "Overcharged for services",
+    "description": "I was charged more than expected for the January service. Can you adjust my bill?",
+    "priority": "medium",
+    "category": "billing"
+  },
+  {
+    "title": "Payment failed due to insufficient funds",
+    "description": "My payment failed because I didn't have enough money in my account. Can I try again?",
+    "priority": "low",
+    "category": "billing"
+  },
+  {
+    "title": "Account locked due to non-payment",
+    "description": "Can you unlock my account as it was locked out due to overdue payments.",
+    "priority": "high",
+    "category": "billing"
+  },
+  {
+    "title": "Invoice not received for September",
+    "description": "No invoice arrived this month, and I haven't received any notifications about it.",
+    "priority": "medium",
+    "category": "billing"
+  },
+  {
+    "title": "Payment method change request with PayPal",
+    "description": "Can I change my payment method from credit card to PayPal?",
+    "priority": "low",
+    "category": "billing"
+  },
+  {
+    "title": "Missing refund for October",
+    "description": "I requested a refund but wasn't credited back to my account. Can you investigate?",
+    "priority": "medium",
+    "category": "billing"
+  },
+  {
+    "title": "Subscription cancellation issue",
+    "description": "Can I cancel my subscription, and how do I go about it?",
+    "priority": "low",
+    "category": "billing"
+  },
+  {
+    "title": "Payment failed due to network error",
+    "description": "My payment failed because of a network issue. Can I try again?",
+    "priority": "medium",
+    "category": "billing"
+  },
+  {
+    "title": "Unpaid fees for January and February",
+    "description": "I'm being charged late fees for the first two months. Can we discuss options for payment?",
+    "priority": "high",
+    "category": "billing"
+  },
+  {
+    "title": "Incorrect billing address",
+    "description": "My billing address is outdated; can I update it to ensure deliveries are sent correctly?",
+    "priority": "low",
+    "category": "billing"
+  },
+  {
+    "title": "Missing statement for December",
+    "description": "No invoice arrived this month, and I haven't received any notifications about it.",
+    "priority": "medium",
+    "category": "billing"
+  },
+  {
+    "title": "Payment confirmation email not received",
+    "description": "Can I confirm that my payment was processed successfully?",
+    "priority": "low",
+    "category": "billing"
+  },
+  {
+    "title": "Refund for cancelled subscription",
+    "description": "I canceled my subscription but wasn't refunded immediately. Can you assist with the refund process?",
+    "priority": "medium",
+    "category": "billing"
+  },
+  {
+    "title": "Payment failed due to invalid CVV",
+    "description": "My payment failed because of an incorrect CVV code. Can I try again?",
+    "priority": "low",
+    "category": "billing"
+  },
+  {
+    "title": "Missing invoice for August",
+    "description": "No invoice arrived this month, and I haven't received any notifications about it.",
+    "priority": "medium",
+    "category": "billing"
+  },
+  {
+    "title": "Overdue payment notice not received",
+    "description": "I wasn't sent a notice that my payment was overdue. Can you add me to the correct list?",
+    "priority": "low",
+    "category": "billing"
+  },
+  {
+    "title": "Payment failed due to bank error",
+    "description": "My payment failed because of an issue with my bank's system. Can I try again?",
+    "priority": "medium",
+    "category": "billing"
+  },
+  {
+    "title": "Missing refund for March",
+    "description": "I requested a refund but wasn't credited back to my account. Can you investigate?",
+    "priority": "medium",
+    "category": "billing"
+  },
+  {
+    "title": "Lost Password Reset Link",
+    "description": "I forgot my password and the reset link I received didn't work, it kept asking me to verify my email.",
+    "priority": "low",
+    "category": "account"
+  },
+  {
+    "title": "Permission Denied Error",
+    "description": "I'm trying to access a feature but getting a permission denied error message. I've checked my account permissions multiple times and they seem correct.",
+    "priority": "medium",
+    "category": "account"
+  },
+  {
+    "title": "Account Lockout",
+    "description": "My account is locked out after two failed login attempts, can you please help me unlock it?",
+    "priority": "low",
+    "category": "account"
+  },
+  {
+    "title": "Profile Picture Not Displaying",
+    "description": "I uploaded a profile picture but it's not displaying on my account page. I've checked the file type and size.",
+    "priority": "medium",
+    "category": "account"
+  },
+  {
+    "title": "Incorrect Account Information",
+    "description": "My account information is incorrect, I'm seeing an old address and phone number.",
+    "priority": "high",
+    "category": "account"
+  },
+  {
+    "title": "Two-Factor Authentication Issues",
+    "description": "I'm having trouble setting up two-factor authentication, it keeps asking me to verify my phone number.",
+    "priority": "medium",
+    "category": "account"
+  },
+  {
+    "title": "Account Deactivated by Mistake",
+    "description": "My account was deactivated by mistake and I don't know why. Can you please help me reactivate it?",
+    "priority": "low",
+    "category": "account"
+  },
+  {
+    "title": "Login Issue on Mobile Device",
+    "description": "I'm having trouble logging in to my account from my mobile device, the app keeps crashing.",
+    "priority": "medium",
+    "category": "account"
+  },
+  {
+    "title": "Account Permissions Change Unexpectedly",
+    "description": "I was expecting to change my account permissions but they changed unexpectedly. Can you please help me revert them?",
+    "priority": "low",
+    "category": "account"
+  },
+  {
+    "title": "Profile Update Not Saving",
+    "description": "I updated some of my profile information but it's not saving. I've checked the form fields.",
+    "priority": "medium",
+    "category": "account"
+  },
+  {
+    "title": "Account Security Question Answered Incorrectly",
+    "description": "I answered a security question incorrectly, can you please update my account accordingly?",
+    "priority": "low",
+    "category": "account"
+  },
+  {
+    "title": "Login Issue on New Device",
+    "description": "I just got a new device and I'm having trouble logging in to my account. The browser keeps redirecting me.",
+    "priority": "medium",
+    "category": "account"
+  },
+  {
+    "title": "Account Information Displayed Incorrectly",
+    "description": "My account information is displayed incorrectly, can you please update it?",
+    "priority": "high",
+    "category": "account"
+  },
+  {
+    "title": "Profile Picture Upload Failed",
+    "description": "I tried to upload a profile picture but the upload failed. I've checked the file type and size.",
+    "priority": "medium",
+    "category": "account"
+  },
+  {
+    "title": "Permission Error on Specific Feature",
+    "description": "I'm trying to access a specific feature but getting a permission error message. Can you please help me?",
+    "priority": "low",
+    "category": "account"
+  },
+  {
+    "title": "Account Lockout After Corrected Credentials",
+    "description": "My account is locked out after I entered my correct credentials, can you please help me unlock it?",
+    "priority": "high",
+    "category": "account"
+  },
+  {
+    "title": "Login Issue with Old Password",
+    "description": "I'm trying to log in with an old password but it's not accepting it. Can you please update my password?",
+    "priority": "medium",
+    "category": "account"
+  },
+  {
+    "title": "Account Permissions Incorrectly Set",
+    "description": "My account permissions were incorrectly set, can you please help me correct them?",
+    "priority": "low",
+    "category": "account"
+  },
+  {
+    "title": "Two-Factor Authentication Setup Issue",
+    "description": "I'm having trouble setting up two-factor authentication. Can you please walk me through the process?",
+    "priority": "medium",
+    "category": "account"
+  },
+  {
+    "title": "Account Information Missing",
+    "description": "Some of my account information is missing, can you please update it?",
+    "priority": "high",
+    "category": "account"
+  },
+  {
+    "title": "Profile Update Request Denied",
+    "description": "I requested to update some of my profile information but it was denied. Can you please help me understand why?",
+    "priority": "medium",
+    "category": "account"
+  },
+  {
+    "title": "Login Issue with New Browser",
+    "description": "I'm trying to log in using a new browser but I'm getting an error message. Can you please help me?",
+    "priority": "low",
+    "category": "account"
+  },
+  {
+    "title": "Account Security Question Answered Incorrectly Again",
+    "description": "I answered a security question incorrectly again, can you please update my account accordingly?",
+    "priority": "high",
+    "category": "account"
+  },
+  {
+    "title": "Permission Denied Error on Multiple Features",
+    "description": "I'm trying to access multiple features but getting permission denied errors. Can you please help me?",
+    "priority": "low",
+    "category": "account"
+  },
+  {
+    "title": "Account Information Incorrectly Updated",
+    "description": "Some of my account information was updated incorrectly, can you please correct it?",
+    "priority": "medium",
+    "category": "account"
+  },
+  {
+    "title": "Slow database query",
+    "description": "Our system is taking 10 seconds to load reports, which is significantly longer than expected. The issue persists even after restarting the server.",
+    "priority": "medium",
+    "category": "performance"
+  },
+  {
+    "title": "Timeout on login page",
+    "description": "Users are experiencing a 30-second timeout when attempting to log in. This is causing frustration and delays for our customers.",
+    "priority": "high",
+    "category": "performance"
+  },
+  {
+    "title": "Resource-intensive script",
+    "description": "One of our internal scripts is consuming excessive CPU resources, resulting in slow system performance and frequent freezes.",
+    "priority": "medium",
+    "category": "performance"
+  },
+  {
+    "title": "Database connection issues",
+    "description": "We're experiencing intermittent database connection errors, which are causing delays in data retrieval and manipulation.",
+    "priority": "low",
+    "category": "performance"
+  },
+  {
+    "title": "Slow API response time",
+    "description": "Our API is taking significantly longer to respond than expected (over 2 seconds), affecting the overall user experience.",
+    "priority": "high",
+    "category": "performance"
+  },
+  {
+    "title": "System crashes due to high RAM usage",
+    "description": "The system is crashing frequently due to excessive RAM usage, resulting in data loss and downtime.",
+    "priority": "critical",
+    "category": "performance"
+  },
+  {
+    "title": "Database query optimization needed",
+    "description": "Our database queries are slow due to inadequate indexing and poor query optimization. This is affecting overall system performance.",
+    "priority": "medium",
+    "category": "performance"
+  },
+  {
+    "title": "Timeout on checkout process",
+    "description": "Customers are experiencing a 30-second timeout when attempting to complete their purchases, which is causing frustration and lost sales.",
+    "priority": "high",
+    "category": "performance"
+  },
+  {
+    "title": "System crashes due to low disk space",
+    "description": "The system is crashing frequently due to low disk space availability. This is resulting in data loss and downtime.",
+    "priority": "critical",
+    "category": "performance"
+  },
+  {
+    "title": "Resource-intensive plugin usage",
+    "description": "One of our plugins is consuming excessive resources, slowing down the entire system and causing performance issues.",
+    "priority": "medium",
+    "category": "performance"
+  },
+  {
+    "title": "Slow server response time",
+    "description": "Our servers are taking significantly longer to respond than expected (over 1 second), affecting the overall user experience.",
+    "priority": "high",
+    "category": "performance"
+  },
+  {
+    "title": "Database connection timeout",
+    "description": "We're experiencing frequent database connection timeouts, which are causing delays in data retrieval and manipulation.",
+    "priority": "low",
+    "category": "performance"
+  },
+  {
+    "title": "System performance degradation after update",
+    "description": "Our system's performance has degraded significantly after the recent update, with slower response times and increased errors.",
+    "priority": "medium",
+    "category": "performance"
+  },
+  {
+    "title": "Timeout on search functionality",
+    "description": "Customers are experiencing a 30-second timeout when attempting to perform searches within our product catalog.",
+    "priority": "high",
+    "category": "performance"
+  },
+  {
+    "title": "Database query performance improvement needed",
+    "description": "Our database queries are slow due to inadequate indexing and poor query optimization. This is affecting overall system performance.",
+    "priority": "medium",
+    "category": "performance"
+  },
+  {
+    "title": "System crashes due to high CPU usage",
+    "description": "The system is crashing frequently due to excessive CPU usage, resulting in data loss and downtime.",
+    "priority": "critical",
+    "category": "performance"
+  },
+  {
+    "title": "Resource-intensive background task",
+    "description": "One of our background tasks is consuming excessive resources, slowing down the entire system and causing performance issues.",
+    "priority": "medium",
+    "category": "performance"
+  },
+  {
+    "title": "Slow API request processing time",
+    "description": "Our API requests are taking significantly longer to process than expected (over 2 seconds), affecting the overall user experience.",
+    "priority": "high",
+    "category": "performance"
+  },
+  {
+    "title": "Database query optimization required",
+    "description": "Our database queries are slow due to inadequate indexing and poor query optimization. This is affecting overall system performance.",
+    "priority": "medium",
+    "category": "performance"
+  },
+  {
+    "title": "System crashes due to low memory availability",
+    "description": "The system is crashing frequently due to low memory availability, resulting in data loss and downtime.",
+    "priority": "critical",
+    "category": "performance"
+  },
+  {
+    "title": "Resource-intensive caching mechanism",
+    "description": "Our caching mechanism is consuming excessive resources, slowing down the entire system and causing performance issues.",
+    "priority": "medium",
+    "category": "performance"
+  },
+  {
+    "title": "Slow server response time after update",
+    "description": "Our servers are taking significantly longer to respond than expected (over 1 second) after the recent update, affecting the overall user experience.",
+    "priority": "high",
+    "category": "performance"
+  },
+  {
+    "title": "Database connection timeout with retry limit exceeded",
+    "description": "We're experiencing frequent database connection timeouts that have been retried multiple times but still fail, causing delays in data retrieval and manipulation.",
+    "priority": "low",
+    "category": "performance"
+  },
+  {
+    "title": "System performance degradation due to excessive logging",
+    "description": "Our system's performance has degraded significantly due to excessive logging, resulting in slower response times and increased errors.",
+    "priority": "medium",
+    "category": "performance"
+  },
+  {
+    "title": "Timeout on product page loading",
+    "description": "Customers are experiencing a 30-second timeout when attempting to load our product pages, which is causing frustration and delays.",
+    "priority": "high",
+    "category": "performance"
+  },
+  {
+    "title": "Resource-intensive database indexing",
+    "description": "One of our database indexes is consuming excessive resources, slowing down the entire system and causing performance issues.",
+    "priority": "medium",
+    "category": "performance"
+  },
+  {
+    "title": "Slow API request processing with multiple parameters",
+    "description": "Our API requests are taking significantly longer to process than expected (over 2 seconds) when using multiple parameters, affecting the overall user experience.",
+    "priority": "high",
+    "category": "performance"
+  },
+  {
+    "title": "System crashes due to high disk I/O",
+    "description": "The system is crashing frequently due to excessive disk I/O, resulting in data loss and downtime.",
+    "priority": "critical",
+    "category": "performance"
+  },
+  {
+    "title": "Resource-intensive database replication mechanism",
+    "description": "Our database replication mechanism is consuming excessive resources, slowing down the entire system and causing performance issues.",
+    "priority": "medium",
+    "category": "performance"
+  },
+  {
+    "title": "Alert: Suspicious login from unknown IP",
+    "description": "A user logged in to our system from an unknown IP address with a unique device fingerprint.",
+    "priority": "medium",
+    "category": "security"
+  },
+  {
+    "title": "Missing SSL Certificate Renewal Notification",
+    "description": "Our system's SSL certificate is due for renewal on March 1st, and we haven't received any notifications.",
+    "priority": "high",
+    "category": "security"
+  },
+  {
+    "title": "Unusual Network Traffic from Our Server",
+    "description": "We're receiving unusual network traffic coming from our server that doesn't match any known patterns.",
+    "priority": "critical",
+    "category": "security"
+  },
+  {
+    "title": "Error: Password Reset Link Expired",
+    "description": "A user tried to reset their password but the link is now expired and can no longer be used.",
+    "priority": "medium",
+    "category": "security"
+  },
+  {
+    "title": "Alert: Unusual Login Activity from Our Admin User",
+    "description": "Our admin user has logged in from multiple locations with different IP addresses.",
+    "priority": "high",
+    "category": "security"
+  },
+  {
+    "title": "Missing Patch for Vulnerable Software",
+    "description": "We have a software component that is not patched against a known vulnerability.",
+    "priority": "medium",
+    "category": "security"
+  },
+  {
+    "title": "Unusual DNS Resolution Patterns",
+    "description": "Our system is resolving DNS requests in unusual patterns that don't match our expected behavior.",
+    "priority": "critical",
+    "category": "security"
+  },
+  {
+    "title": "Security Alert: Unallowed Script Execution",
+    "description": "A user tried to execute an unapproved script on our system, which could potentially be malicious.",
+    "priority": "high",
+    "category": "security"
+  },
+  {
+    "title": "Alert: Suspicious File Upload from User",
+    "description": "A user uploaded a file that doesn't match their expected format.",
+    "priority": "medium",
+    "category": "security"
+  },
+  {
+    "title": "Missing Two-Factor Authentication Settings",
+    "description": "Our system's two-factor authentication settings are not configured correctly.",
+    "priority": "high",
+    "category": "security"
+  },
+  {
+    "title": "Error: Unauthorised Access to Our API",
+    "description": "Someone accessed our API without proper authorization.",
+    "priority": "critical",
+    "category": "security"
+  },
+  {
+    "title": "Alert: Suspicious Activity from Our Monitoring System",
+    "description": "Our monitoring system detected suspicious activity that doesn't match any known patterns.",
+    "priority": "medium",
+    "category": "security"
+  },
+  {
+    "title": "Missing Regular Security Scan Notification",
+    "description": "We haven't received a regular security scan notification in the past week.",
+    "priority": "high",
+    "category": "security"
+  },
+  {
+    "title": "Unusual System Resource Utilization",
+    "description": "Our system is using unusual amounts of resources, potentially indicating a security issue.",
+    "priority": "medium",
+    "category": "security"
+  },
+  {
+    "title": "Security Alert: Unallowed Directory Listing",
+    "description": "A user tried to list directories on our server that they shouldn't be able to access.",
+    "priority": "high",
+    "category": "security"
+  },
+  {
+    "title": "Alert: Suspicious Email from Our Authentication System",
+    "description": "Our authentication system detected a suspicious email that doesn't match any known patterns.",
+    "priority": "medium",
+    "category": "security"
+  },
+  {
+    "title": "Missing Compliance Check Notification",
+    "description": "We haven't received a compliance check notification in the past month.",
+    "priority": "high",
+    "category": "security"
+  },
+  {
+    "title": "Unusual System Logs Activity",
+    "description": "Our system is logging unusual activity that doesn't match any known patterns.",
+    "priority": "medium",
+    "category": "security"
+  },
+  {
+    "title": "Error: Unauthorised Changes to Our Configuration",
+    "description": "Someone made unauthorized changes to our configuration files.",
+    "priority": "critical",
+    "category": "security"
+  },
+  {
+    "title": "Alert: Suspicious File Upload from User",
+    "description": "A user uploaded a file that doesn't match their expected format.",
+    "priority": "medium",
+    "category": "security"
+  },
+  {
+    "title": "Missing Vulnerability Scan Notification",
+    "description": "We haven't received a vulnerability scan notification in the past quarter.",
+    "priority": "high",
+    "category": "security"
+  },
+  {
+    "title": "Unusual Network Traffic from Our Server",
+    "description": "We're receiving unusual network traffic coming from our server that doesn't match any known patterns.",
+    "priority": "critical",
+    "category": "security"
+  },
+  {
+    "title": "Security Alert: Unallowed Command Execution",
+    "description": "A user tried to execute an unapproved command on our system, which could potentially be malicious.",
+    "priority": "high",
+    "category": "security"
+  },
+  {
+    "title": "Alert: Suspicious Login Activity from Our Guest User",
+    "description": "Our guest user has logged in from multiple locations with different IP addresses.",
+    "priority": "medium",
+    "category": "security"
+  },
+  {
+    "title": "Missing Patch for Vulnerable Software",
+    "description": "We have a software component that is not patched against a known vulnerability.",
+    "priority": "medium",
+    "category": "security"
+  },
+  {
+    "title": "Unusual DNS Resolution Patterns",
+    "description": "Our system is resolving DNS requests in unusual patterns that don't match our expected behavior.",
+    "priority": "critical",
+    "category": "security"
+  },
+  {
+    "title": "Security Alert: Unallowed File Access",
+    "description": "Someone tried to access a file on our server that they shouldn't be able to access.",
+    "priority": "high",
+    "category": "security"
+  },
+  {
+    "title": "Alert: Suspicious Activity from Our Backup System",
+    "description": "Our backup system detected suspicious activity that doesn't match any known patterns.",
+    "priority": "medium",
+    "category": "security"
+  },
+  {
+    "title": "Missing Compliance Check Notification",
+    "description": "We haven't received a compliance check notification in the past month.",
+    "priority": "high",
+    "category": "security"
+  },
+  {
+    "title": "Difficulty with setup after purchasing",
+    "description": "I have just purchased our software, but I'm having trouble setting it up on my computer. The instructions provided don't seem to be clear enough.",
+    "priority": "low",
+    "category": "onboarding"
+  },
+  {
+    "title": "Installation issues",
+    "description": "The installation process is taking longer than expected and I'm getting an error message that says 'failed to connect'. Can you please help me resolve this?",
+    "priority": "medium",
+    "category": "onboarding"
+  },
+  {
+    "title": "Getting started guide unclear",
+    "description": "I've been trying to follow the getting started guide, but it's not making sense to me. Could you provide more detailed instructions or a video tutorial?",
+    "priority": "low",
+    "category": "onboarding"
+  },
+  {
+    "title": "Setup fails due to outdated software",
+    "description": "I'm trying to set up our new software, but I get an error message saying that my current operating system is no longer supported. What should I do?",
+    "priority": "medium",
+    "category": "onboarding"
+  },
+  {
+    "title": "Troubleshooting issues with setup",
+    "description": "I've tried resetting the password and restarting the computer, but I still can't log in to our software.",
+    "priority": "high",
+    "category": "onboarding"
+  },
+  {
+    "title": "No internet connection during setup",
+    "description": "The installation process is failing because my internet connection isn't stable. Can you please provide instructions on how to set up a wired connection?",
+    "priority": "medium",
+    "category": "onboarding"
+  },
+  {
+    "title": "Unable to complete setup",
+    "description": "I'm stuck on the final step of the setup process and I don't know what to do next.",
+    "priority": "low",
+    "category": "onboarding"
+  },
+  {
+    "title": "Error message during setup",
+    "description": "I get an error message saying ' unable to verify license key'. Can you please help me resolve this?",
+    "priority": "medium",
+    "category": "onboarding"
+  },
+  {
+    "title": "Troubleshooting issues with onboarding",
+    "description": "I've tried all the troubleshooting steps, but I still can't complete the onboarding process.",
+    "priority": "high",
+    "category": "onboarding"
+  },
+  {
+    "title": "Setup fails due to hardware issue",
+    "description": "The installation process is failing because my computer's hardware is not compatible. Can you please provide instructions on how to upgrade my hardware?",
+    "priority": "medium",
+    "category": "onboarding"
+  },
+  {
+    "title": "Getting started with multiple users",
+    "description": "I've purchased our software for multiple users, but I'm unsure about how to set it up and manage user access.",
+    "priority": "low",
+    "category": "onboarding"
+  },
+  {
+    "title": "Troubleshooting issues with setup on mobile device",
+    "description": "I'm trying to set up our software on my phone, but the app is not downloading correctly. Can you please help me troubleshoot this?",
+    "priority": "medium",
+    "category": "onboarding"
+  },
+  {
+    "title": "No activation email received",
+    "description": "I haven't received an activation email after purchasing our software, and I don't know what to do next.",
+    "priority": "low",
+    "category": "onboarding"
+  },
+  {
+    "title": "Setup fails due to firewall issues",
+    "description": "The installation process is failing because my computer's firewall is blocking the setup process. Can you please provide instructions on how to configure my firewall?",
+    "priority": "medium",
+    "category": "onboarding"
+  },
+  {
+    "title": "Troubleshooting issues with onboarding on multiple devices",
+    "description": "I'm trying to set up our software on multiple devices, but I'm getting errors and don't know what's going wrong.",
+    "priority": "high",
+    "category": "onboarding"
+  },
+  {
+    "title": "Getting started guide outdated",
+    "description": "The getting started guide is not reflecting the latest changes to our software. Can you please provide an updated version?",
+    "priority": "low",
+    "category": "onboarding"
+  },
+  {
+    "title": "Setup fails due to DNS issues",
+    "description": "The installation process is failing because my computer's DNS settings are not configured correctly.",
+    "priority": "medium",
+    "category": "onboarding"
+  },
+  {
+    "title": "Troubleshooting issues with setup on server",
+    "description": "I'm trying to set up our software on a remote server, but the installation process is failing. Can you please help me troubleshoot this?",
+    "priority": "high",
+    "category": "onboarding"
+  },
+  {
+    "title": "No license key received",
+    "description": "I haven't received my license key after purchasing our software, and I don't know what to do next.",
+    "priority": "low",
+    "category": "onboarding"
+  },
+  {
+    "title": "Setup fails due to antivirus software interference",
+    "description": "The installation process is failing because my antivirus software is interfering with the setup. Can you please provide instructions on how to configure my antivirus settings?",
+    "priority": "medium",
+    "category": "onboarding"
+  },
+  {
+    "title": "Troubleshooting issues with onboarding on cloud hosting",
+    "description": "I'm trying to set up our software on a cloud hosting platform, but I'm getting errors and don't know what's going wrong.",
+    "priority": "high",
+    "category": "onboarding"
+  },
+  {
+    "title": "Getting started guide not accessible",
+    "description": "I'm unable to access the getting started guide due to a technical issue. Can you please provide an alternative resource?",
+    "priority": "low",
+    "category": "onboarding"
+  },
+  {
+    "title": "Setup fails due to outdated browser version",
+    "description": "The installation process is failing because my browser version is no longer supported.",
+    "priority": "medium",
+    "category": "onboarding"
+  },
+  {
+    "title": "Troubleshooting issues with setup on virtual private network (VPN)",
+    "description": "I'm trying to set up our software while connected to a VPN, but the installation process is failing. Can you please help me troubleshoot this?",
+    "priority": "high",
+    "category": "onboarding"
+  },
+  {
+    "title": "No activation code received",
+    "description": "I haven't received an activation code after purchasing our software, and I don't know what to do next.",
+    "priority": "low",
+    "category": "onboarding"
+  },
+  {
+    "title": "Setup fails due to hardware compatibility issues",
+    "description": "The installation process is failing because my computer's hardware is not compatible with our software. Can you please provide instructions on how to upgrade or configure my hardware?",
+    "priority": "medium",
+    "category": "onboarding"
+  },
+  {
+    "title": "Troubleshooting issues with setup in a virtual environment",
+    "description": "I'm trying to set up our software in a virtual environment, but I'm getting errors and don't know what's going wrong.",
+    "priority": "high",
+    "category": "onboarding"
+  },
+  {
+    "title": "Getting started guide is too complex",
+    "description": "The getting started guide is too technical for my skill level. Can you please provide a simplified version?",
+    "priority": "low",
+    "category": "onboarding"
+  },
+  {
+    "title": "Refund Request for Cancelled Order #1234",
+    "description": "I placed an order on March 1st but it was cancelled due to stock availability issues. I would like a full refund of $150 as soon as possible.",
+    "priority": "high",
+    "category": "refund"
+  },
+  {
+    "title": "Refund Inquiry for Overcharged Payment",
+    "description": "I made a payment of $200 for my subscription, but the actual cost is $180. Can you please process a refund of $20?",
+    "priority": "medium",
+    "category": "refund"
+  },
+  {
+    "title": "Request for Refund Due to Product Defect",
+    "description": "The item I received is damaged and unusable. Can I get a full refund or replacement?",
+    "priority": "high",
+    "category": "refund"
+  },
+  {
+    "title": "Refund Request for Service Not Received",
+    "description": "I booked a service appointment on January 15th but it was cancelled at the last minute due to weather conditions. Can I get a refund of $50?",
+    "priority": "medium",
+    "category": "refund"
+  },
+  {
+    "title": "Cancel and Refund Request for Undelivered Order",
+    "description": "My order was not delivered despite being placed two weeks ago. I would like a full refund and a prepaid return shipping label.",
+    "priority": "critical",
+    "category": "refund"
+  },
+  {
+    "title": "Refund Inquiry for Incorrect Item Shipped",
+    "description": "I ordered a shirt but received a different item instead. Can I get a refund of $100?",
+    "priority": "high",
+    "category": "refund"
+  },
+  {
+    "title": "Request for Refund Due to Change of Mind",
+    "description": "I changed my mind about the subscription plan and would like to cancel my service. Can I get a refund of $30?",
+    "priority": "medium",
+    "category": "refund"
+  },
+  {
+    "title": "Refund Request for Late Delivery",
+    "description": "My order was supposed to arrive on January 10th but it didn't arrive until January 15th. Can I get a refund or discount?",
+    "priority": "high",
+    "category": "refund"
+  },
+  {
+    "title": "Refund Inquiry for Overpayment",
+    "description": "I paid $250 for my service but the actual cost is $200. Can you please process a refund of $50?",
+    "priority": "medium",
+    "category": "refund"
+  },
+  {
+    "title": "Request for Refund Due to Service Not Working",
+    "description": "The service I received doesn't work as expected. Can I get a full refund or replacement?",
+    "priority": "high",
+    "category": "refund"
+  },
+  {
+    "title": "Cancel and Refund Request for Unused Subscription",
+    "description": "I haven't used my subscription in the last three months and would like to cancel. Can I get a partial refund of $50?",
+    "priority": "medium",
+    "category": "refund"
+  },
+  {
+    "title": "Refund Inquiry for Damaged Item Received",
+    "description": "The item I received was damaged upon delivery. Can I get a full refund or replacement?",
+    "priority": "high",
+    "category": "refund"
+  },
+  {
+    "title": "Request for Refund Due to Change in Payment Method",
+    "description": "I changed my payment method but forgot to update the subscription. Can I get a refund of $100?",
+    "priority": "medium",
+    "category": "refund"
+  },
+  {
+    "title": "Refund Request for Service Not Completed",
+    "description": "The service I booked was not completed due to unforeseen circumstances. Can I get a full refund or replacement?",
+    "priority": "high",
+    "category": "refund"
+  },
+  {
+    "title": "Cancel and Refund Request for Incorrect Order",
+    "description": "I ordered the wrong item due to incorrect information provided by your website. Can I get a full refund or replacement?",
+    "priority": "critical",
+    "category": "refund"
+  },
+  {
+    "title": "Refund Inquiry for Overcharge on Subscription",
+    "description": "I made an annual payment of $1800 but my subscription costs $1500. Can you please process a refund of $300?",
+    "priority": "high",
+    "category": "refund"
+  },
+  {
+    "title": "Request for Refund Due to Service Not as Promised",
+    "description": "The service I received was not what I expected and does not meet the advertised claims. Can I get a full refund or replacement?",
+    "priority": "critical",
+    "category": "refund"
+  },
+  {
+    "title": "Refund Request for Late Cancellation Fee",
+    "description": "I cancelled my subscription one day late but you charged me a cancellation fee anyway. Can I get a refund of $20?",
+    "priority": "medium",
+    "category": "refund"
+  },
+  {
+    "title": "Cancel and Refund Request for Unused Credits",
+    "description": "I have unused credits from a previous order that can be applied to my current subscription. Can I get a full refund or replacement?",
+    "priority": "high",
+    "category": "refund"
+  },
+  {
+    "title": "Refund Inquiry for Damaged Packaging",
+    "description": "The item I received was damaged due to poor packaging. Can I get a full refund or replacement?",
+    "priority": "medium",
+    "category": "refund"
+  },
+  {
+    "title": "Request for Refund Due to Lack of Support",
+    "description": "I have been experiencing issues with the service and was not provided adequate support. Can I get a full refund?",
+    "priority": "critical",
+    "category": "refund"
+  },
+  {
+    "title": "Refund Request for Overcharge on Prepaid Plan",
+    "description": "I prepaid for a subscription plan but my usage is less than expected. Can you please process a refund of $50?",
+    "priority": "high",
+    "category": "refund"
+  },
+  {
+    "title": "Cancel and Refund Request for Incorrect Billing Information",
+    "description": "Your billing information was incorrect, resulting in an overcharge of $100. Can I get a full refund or replacement?",
+    "priority": "critical",
+    "category": "refund"
+  },
+  {
+    "title": "Refund Inquiry for Delayed Delivery Due to Weather",
+    "description": "My order was delayed due to weather conditions and I am still waiting for it to arrive. Can I get a partial refund of $20?",
+    "priority": "medium",
+    "category": "refund"
+  },
+  {
+    "title": "Request for Refund Due to Unscheduled Service Cancellation",
+    "description": "I had an unscheduled service cancellation that resulted in lost productivity and revenue. Can I get a full refund or replacement?",
+    "priority": "high",
+    "category": "refund"
+  },
+  {
+    "title": "Cancel and Refund Request for Incorrect Subscription Plan",
+    "description": "The subscription plan I was offered does not match what I signed up for. Can I get a full refund or replacement?",
+    "priority": "critical",
+    "category": "refund"
+  },
+  {
+    "title": "Refund Request for Overcharge on Add-On Services",
+    "description": "I added services to my subscription that were not included in the initial price. Can you please process a refund of $50?",
+    "priority": "high",
+    "category": "refund"
+  },
+  {
+    "title": "Request for Refund Due to Lack of Communication",
+    "description": "I was not communicated with about the cancellation or changes to my order. Can I get a full refund?",
+    "priority": "critical",
+    "category": "refund"
+  },
+  {
+    "title": "Refund Inquiry for Damaged Item Received (Multiple Occurrences)",
+    "description": "I have received multiple damaged items due to poor packaging and shipping. Can I get a full refund or replacement?",
+    "priority": "high",
+    "category": "refund"
+  },
+  {
+    "title": "Cancel and Refund Request for Unused Charges",
+    "description": "I was charged for services that were not used. Can I get a partial refund of $50?",
+    "priority": "medium",
+    "category": "refund"
+  },
+  {
+    "title": "Account Balance Inquiry",
+    "description": "I'm trying to check my current account balance but I can't seem to find the information online.",
+    "priority": "low",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Return Shipping Label",
+    "description": "I need to request a return shipping label for a defective product, can you please assist me?",
+    "priority": "medium",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Order Confirmation",
+    "description": "Can you confirm my order status and delivery date?",
+    "priority": "high",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Product Information",
+    "description": "I'm looking for information about your company's policies on gift wrapping.",
+    "priority": "low",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Payment Method",
+    "description": "I'm unsure which payment method was used for a recent purchase, can you help?",
+    "priority": "medium",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Business Hours",
+    "description": "What are your business hours and do you have any extended hours on weekends?",
+    "priority": "low",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "FAQs",
+    "description": "I'm looking for information on how to care for my product, but I couldn't find it in the FAQs section.",
+    "priority": "medium",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Contact Information",
+    "description": "Can you please provide me with your company's contact information so I can reach out to you directly?",
+    "priority": "high",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Delivery Tracking",
+    "description": "I need help tracking the status of my package, it's been missing for several days.",
+    "priority": "critical",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Cancellation Policy",
+    "description": "Can you please explain your company's policy on cancellations and refunds?",
+    "priority": "low",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Order History",
+    "description": "I'm looking for a copy of my past order history, can you provide it to me?",
+    "priority": "medium",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Company Information",
+    "description": "Can you please provide more information about your company's mission and values?",
+    "priority": "low",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Payment Error",
+    "description": "I'm experiencing an error with my payment method, can you help me resolve it?",
+    "priority": "high",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Product Recommendations",
+    "description": "Can you please recommend a similar product to one I purchased in the past?",
+    "priority": "medium",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Store Locations",
+    "description": "I'm looking for information on your store locations and hours of operation.",
+    "priority": "low",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Customer Reviews",
+    "description": "Can you provide me with customer reviews for a specific product?",
+    "priority": "high",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "FAQs Update",
+    "description": "Your FAQs section is outdated, can you please update it with the latest information?",
+    "priority": "medium",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Contact Form",
+    "description": "I'm having trouble submitting my contact form on your website.",
+    "priority": "low",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Order Status",
+    "description": "Can you please provide me with an update on the status of my order?",
+    "priority": "high",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Product Availability",
+    "description": "Can you please tell me if a specific product is currently available for purchase?",
+    "priority": "medium",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Gift Wrapping Options",
+    "description": "I'm looking for information on your gift wrapping options and pricing.",
+    "priority": "low",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Return Policy",
+    "description": "Can you please explain your company's return policy in more detail?",
+    "priority": "high",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Store Hours",
+    "description": "What are your store hours and are they open on holidays?",
+    "priority": "medium",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Product Variations",
+    "description": "Can you please tell me about any variations of a specific product?",
+    "priority": "low",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Payment Options",
+    "description": "Can you please list all the payment options available for your products?",
+    "priority": "high",
+    "category": "general_inquiry"
+  },
+  {
+    "title": "Order Cancellation Request",
+    "description": "I was trying to cancel my order but it says I need to login to my account, which is incorrect. I did not change any password.",
+    "priority": "low",
+    "category": "complaint"
+  },
+  {
+    "title": "Issue with Recent Purchase",
+    "description": "The product I received is damaged and the seller does not want to replace it. It has been two days since I made the purchase and this issue still hasn't been resolved.",
+    "priority": "medium",
+    "category": "complaint"
+  },
+  {
+    "title": "Refund for Incorrect Order",
+    "description": "I ordered a wrong item and they refused to give me a refund. The order was confirmed by them but when I asked for a return, they said it was too late.",
+    "priority": "low",
+    "category": "complaint"
+  },
+  {
+    "title": "Problem with Payment Method",
+    "description": "The payment method I used is not recognized by the system. I tried using different cards and no option to change it was available in my account.",
+    "priority": "medium",
+    "category": "complaint"
+  },
+  {
+    "title": "Missing Tracking Information",
+    "description": "I did not receive any tracking information for my package even though it says it has shipped out. This is causing me a lot of inconvenience.",
+    "priority": "high",
+    "category": "complaint"
+  },
+  {
+    "title": "Refund Issue with Past Order",
+    "description": "I tried to initiate a refund but the system keeps showing that I need to pay again. It was an error and not my fault.",
+    "priority": "medium",
+    "category": "complaint"
+  },
+  {
+    "title": "Problem with Return Shipping",
+    "description": "The shipping label for returning the item is not being sent to me. This is making it difficult for me to return the product.",
+    "priority": "low",
+    "category": "complaint"
+  },
+  {
+    "title": "Wrong Product Received",
+    "description": "I received a different product than what I ordered and this was confirmed by the seller. The wrong item was delivered to my address.",
+    "priority": "high",
+    "category": "complaint"
+  },
+  {
+    "title": "Account Lockout Issue",
+    "description": "My account has been locked out due to a suspected fraudulent activity but I know it's not mine. This is causing me inconvenience as I need to access my account for work purposes.",
+    "priority": "medium",
+    "category": "complaint"
+  },
+  {
+    "title": "Difficulty in Cancelling Subscription",
+    "description": "I tried to cancel my subscription but the system keeps sending me reminders and notifications that I'm a subscriber and it says I need to confirm cancellation. This is frustrating and causing me inconvenience.",
+    "priority": "low",
+    "category": "complaint"
+  },
+  {
+    "title": "Error with Payment Processing",
+    "description": "The payment processing failed due to an error in the system. This happened during checkout, but no option was available to complete the transaction.",
+    "priority": "high",
+    "category": "complaint"
+  },
+  {
+    "title": "Missing Order Confirmation",
+    "description": "I did not receive any order confirmation email even though I placed the order successfully. This is causing me a lot of confusion.",
+    "priority": "medium",
+    "category": "complaint"
+  },
+  {
+    "title": "Product Issue with Usage",
+    "description": "The product I purchased does not work as intended due to a design flaw or manufacturing defect. I have tried using it multiple times but it still does not work.",
+    "priority": "high",
+    "category": "complaint"
+  },
+  {
+    "title": "Difficulty in Reaching Customer Support",
+    "description": "I tried calling the customer support number and no one answered. The automated system kept repeating that all lines are busy and I couldn't get any assistance.",
+    "priority": "low",
+    "category": "complaint"
+  },
+  {
+    "title": "Order Shipment Delayed",
+    "description": "The shipment of my order was delayed and it says now will be delivered within a week, which is longer than expected.",
+    "priority": "medium",
+    "category": "complaint"
+  },
+  {
+    "title": "Incorrect Order Total",
+    "description": "The total amount on the invoice does not match what I paid. The difference is quite significant and this is causing me inconvenience.",
+    "priority": "high",
+    "category": "complaint"
+  },
+  {
+    "title": "Refund for Incorrect Item",
+    "description": "I ordered an item but when it arrived, it was not what I expected. Now I want a refund for the wrong item, but they are being difficult about it.",
+    "priority": "low",
+    "category": "complaint"
+  },
+  {
+    "title": "Problem with Product Labeling",
+    "description": "The product label says one thing, but the actual contents are different. This is causing me confusion and inconvenience.",
+    "priority": "medium",
+    "category": "complaint"
+  },
+  {
+    "title": "Order Cancellation Failure",
+    "description": "I tried to cancel my order multiple times but it keeps failing due to an error in the system. I need a refund urgently.",
+    "priority": "high",
+    "category": "complaint"
+  },
+  {
+    "title": "Missing Product Information",
+    "description": "The product information on the packaging is missing some crucial details, which are needed for warranty purposes.",
+    "priority": "medium",
+    "category": "complaint"
+  },
+  {
+    "title": "Difficulty in Returning Item",
+    "description": "I tried to return the item but the system keeps sending me reminders and notifications that I need to confirm return. This is causing a lot of frustration.",
+    "priority": "low",
+    "category": "complaint"
+  },
+  {
+    "title": "Product Issue with Material",
+    "description": "The product I purchased has poor quality material that does not meet my expectations. The supplier should have done better quality control.",
+    "priority": "high",
+    "category": "complaint"
+  },
+  {
+    "title": "Error with Payment Method on Website",
+    "description": "I tried to make a payment on the website but it kept showing an error message due to an issue in the payment gateway.",
+    "priority": "medium",
+    "category": "complaint"
+  },
+  {
+    "title": "Missing Return Label",
+    "description": "The return shipping label is missing from my order confirmation email. I need to ship the item back as soon as possible.",
+    "priority": "low",
+    "category": "complaint"
+  },
+  {
+    "title": "Product Not as Described",
+    "description": "The product was not as described in the listing and this was confirmed by the seller. The seller should have been more accurate in their description.",
+    "priority": "high",
+    "category": "complaint"
+  },
+  {
+    "title": "Difficulty in Upgrading Plan",
+    "description": "I tried to upgrade my plan but the system keeps saying that I need to downgrade first. This is frustrating and causing me inconvenience.",
+    "priority": "low",
+    "category": "complaint"
+  },
+  {
+    "title": "Refund Delayed",
+    "description": "The refund for my order has been delayed due to an internal issue in the system. The delay is causing a lot of frustration.",
+    "priority": "medium",
+    "category": "complaint"
+  },
+  {
+    "title": "Product Feedback: Suggesting a New Feature",
+    "description": "I've been using your software for the past six months and I love it. However, I think there's an opportunity to enhance the user experience by adding a feature that allows users to prioritize tasks based on deadlines. This would make our team more efficient and productive.",
+    "priority": "low",
+    "category": "feedback"
+  },
+  {
+    "title": "Issue with Order Confirmation",
+    "description": "I placed an order last week but the confirmation email didn't include my name as requested. I understand it's not a critical issue, but it would be great if you could consider adding this feature in the future.",
+    "priority": "low",
+    "category": "feedback"
+  },
+  {
+    "title": "Feedback on User Interface",
+    "description": "Your software is user-friendly and intuitive. However, I think the layout of certain sections could be improved for better readability. Perhaps consider adjusting the font size or color scheme to make it more visually appealing.",
+    "priority": "medium",
+    "category": "feedback"
+  },
+  {
+    "title": "Error with Downloading Files",
+    "description": "I've been experiencing issues with downloading files from your software. The download process is slow and often crashes. I'd appreciate it if you could look into this issue as soon as possible.",
+    "priority": "medium",
+    "category": "feedback"
+  },
+  {
+    "title": "Suggestion for New Feature: Integration with Other Tools",
+    "description": "Your software has become an essential tool in our workflow, but I think there's an opportunity to integrate it with other popular tools like Slack or Trello. This would make our workflow more seamless and efficient.",
+    "priority": "low",
+    "category": "feedback"
+  },
+  {
+    "title": "Incorrect Pricing Information",
+    "description": "I recently upgraded my subscription plan, but the price I was charged was incorrect. I understand that mistakes can happen, but it's essential to double-check pricing information in the future.",
+    "priority": "medium",
+    "category": "feedback"
+  },
+  {
+    "title": "Feedback on Customer Support Team",
+    "description": "Your customer support team is very responsive and helpful. However, there are times when they don't respond immediately, which can be frustrating for customers like me who need assistance urgently.",
+    "priority": "low",
+    "category": "feedback"
+  },
+  {
+    "title": "Issue with Customization Options",
+    "description": "I've been using your software for a while now, but I think the customization options could be improved. It would be great if you could provide more flexibility in terms of layout and design.",
+    "priority": "medium",
+    "category": "feedback"
+  },
+  {
+    "title": "Suggestion for New Feature: AI-Powered Insights",
+    "description": "Your software has become incredibly useful for our business, but I think there's an opportunity to integrate AI-powered insights that can help us make data-driven decisions. This would be a game-changer for our industry.",
+    "priority": "high",
+    "category": "feedback"
+  },
+  {
+    "title": "Error with Login Credentials",
+    "description": "I've been experiencing issues with logging into your software. The login credentials weren't working, and I had to reset them multiple times before it finally worked. This was frustrating and time-consuming.",
+    "priority": "medium",
+    "category": "feedback"
+  },
+  {
+    "title": "Feedback on User Experience",
+    "description": "Your software is very user-friendly, but there are times when the interface feels a bit cluttered. Perhaps consider simplifying the layout or providing more visual cues to guide users through the process.",
+    "priority": "low",
+    "category": "feedback"
+  },
+  {
+    "title": "Suggestion for New Feature: Automated Reporting",
+    "description": "Your software has become an essential tool in our workflow, but I think there's an opportunity to integrate automated reporting features. This would save us a significant amount of time and effort.",
+    "priority": "high",
+    "category": "feedback"
+  },
+  {
+    "title": "Issue with Data Export",
+    "description": "I've been experiencing issues with exporting data from your software. The process is slow and often fails. I'd appreciate it if you could look into this issue as soon as possible.",
+    "priority": "medium",
+    "category": "feedback"
+  },
+  {
+    "title": "Feedback on Customer Success Team",
+    "description": "Your customer success team has been very helpful in getting us started with your software. However, there's a lack of communication around new features and updates, which can be confusing for some users.",
+    "priority": "low",
+    "category": "feedback"
+  },
+  {
+    "title": "Suggestion for New Feature: Integration with Other Companies' Tools",
+    "description": "Your software has become an essential tool in our workflow, but I think there's an opportunity to integrate it with other companies' tools like Salesforce or HubSpot. This would make our workflow more seamless and efficient.",
+    "priority": "high",
+    "category": "feedback"
+  },
+  {
+    "title": "Error with Upload Files",
+    "description": "I've been experiencing issues with uploading files to your software. The upload process is slow, and sometimes the file doesn't get uploaded at all. I'd appreciate it if you could look into this issue as soon as possible.",
+    "priority": "medium",
+    "category": "feedback"
+  },
+  {
+    "title": "Feedback on User Interface",
+    "description": "Your software has a great user interface, but there's one feature that I think is missing: a 'reset' button for the dashboard. It would be convenient to have a quick way to reset the layout.",
+    "priority": "low",
+    "category": "feedback"
+  },
+  {
+    "title": "Suggestion for New Feature: Predictive Analytics",
+    "description": "Your software has become incredibly useful for our business, but I think there's an opportunity to integrate predictive analytics features that can help us make data-driven decisions. This would be a game-changer for our industry.",
+    "priority": "high",
+    "category": "feedback"
+  },
+  {
+    "title": "Issue with Customer Support",
+    "description": "I've been experiencing issues with getting help from your customer support team. The response time is slow, and sometimes the issue isn't resolved immediately.",
+    "priority": "medium",
+    "category": "feedback"
+  },
+  {
+    "title": "Feedback on User Experience",
+    "description": "Your software is very user-friendly, but there's one feature that I think needs improvement: the navigation menu. It would be great if you could simplify the layout or provide more visual cues to guide users through the process.",
+    "priority": "low",
+    "category": "feedback"
+  },
+  {
+    "title": "Suggestion for New Feature: Integration with Calendar Tools",
+    "description": "Your software has become an essential tool in our workflow, but I think there's an opportunity to integrate it with calendar tools like Google Calendar or Microsoft Outlook. This would make our workflow more seamless and efficient.",
+    "priority": "high",
+    "category": "feedback"
+  },
+  {
+    "title": "Error with Logging Out",
+    "description": "I've been experiencing issues with logging out of your software. The logout process is slow, and sometimes I'm still logged in after I thought I had logged out.",
+    "priority": "medium",
+    "category": "feedback"
+  },
+  {
+    "title": "Feedback on Product Documentation",
+    "description": "Your product documentation is very comprehensive, but there are times when the explanations could be more detailed or clearer. Perhaps consider providing additional resources or tutorials to help users get started.",
+    "priority": "low",
+    "category": "feedback"
+  },
+  {
+    "title": "Suggestion for New Feature: Automated Tasks",
+    "description": "Your software has become incredibly useful for our business, but I think there's an opportunity to integrate automated tasks that can help us save time and effort. This would be a game-changer for our industry.",
+    "priority": "high",
+    "category": "feedback"
+  },
+  {
+    "title": "Issue with User Permissions",
+    "description": "I've been experiencing issues with user permissions in your software. The settings are not being applied correctly, and I'm having trouble managing users and roles.",
+    "priority": "medium",
+    "category": "feedback"
+  },
+  {
+    "title": "Feedback on Customer Retention Strategy",
+    "description": "Your customer retention strategy is very effective, but there's a lack of transparency around how you acquire new customers. Perhaps consider providing more information about your marketing efforts?",
+    "priority": "low",
+    "category": "feedback"
+  },
+  {
+    "title": "Missing API Documentation",
+    "description": "We need access to the API documentation as our developer team is struggling with implementing new functionality.",
+    "priority": "low",
+    "category": "other"
+  },
+  {
+    "title": "Incorrect Font Styles",
+    "description": "Our website's font styles have been changed unexpectedly, and we can't find any information on how to revert them back to their original settings.",
+    "priority": "medium",
+    "category": "other"
+  },
+  {
+    "title": "Payment Gateway Issue",
+    "description": "The payment gateway is not processing transactions correctly, resulting in failed payments and customer dissatisfaction.",
+    "priority": "high",
+    "category": "other"
+  },
+  {
+    "title": "Missing Product Images",
+    "description": "We need help finding the images for a new product that was added to our online store recently.",
+    "priority": "low",
+    "category": "other"
+  },
+  {
+    "title": "Email Template Issues",
+    "description": "Our email templates are not being displayed correctly in the preview, causing issues with our marketing campaigns.",
+    "priority": "medium",
+    "category": "other"
+  },
+  {
+    "title": "Browser Compatibility Issue",
+    "description": "Our website is not displaying correctly on certain browsers due to an unknown compatibility issue.",
+    "priority": "high",
+    "category": "other"
+  },
+  {
+    "title": "Unnecessary Redirects",
+    "description": "We are experiencing excessive redirects while navigating our website, slowing down the user experience.",
+    "priority": "medium",
+    "category": "other"
+  },
+  {
+    "title": "Missing Functionality",
+    "description": "Our website's features were broken unexpectedly after a recent update, and we can't figure out how to fix them.",
+    "priority": "low",
+    "category": "other"
+  },
+  {
+    "title": "SSL Certificate Issues",
+    "description": "We are experiencing SSL certificate errors on our website, causing issues with secure connections.",
+    "priority": "high",
+    "category": "other"
+  },
+  {
+    "title": "Incorrect Social Media Links",
+    "description": "Our social media links are not displaying correctly on the website, and we need help correcting them.",
+    "priority": "medium",
+    "category": "other"
+  },
+  {
+    "title": "Website Performance Issues",
+    "description": "Our website is slow to load, causing frustration for our users.",
+    "priority": "high",
+    "category": "other"
+  },
+  {
+    "title": "Missing Accessibility Features",
+    "description": "We need help adding accessibility features to our website to ensure compliance with new regulations.",
+    "priority": "medium",
+    "category": "other"
+  },
+  {
+    "title": "Browser Extensions Compatibility",
+    "description": "Our browser extensions are not compatible with the latest version of Chrome, causing issues for users.",
+    "priority": "low",
+    "category": "other"
+  },
+  {
+    "title": "Incorrect Website URLs",
+    "description": "We need help correcting the website URLs to ensure they point to the correct pages.",
+    "priority": "medium",
+    "category": "other"
+  },
+  {
+    "title": "Missing Content Elements",
+    "description": "Our website is missing essential content elements, such as FAQs or about us sections.",
+    "priority": "low",
+    "category": "other"
+  },
+  {
+    "title": "Email Notifications Issues",
+    "description": "We are experiencing issues with email notifications being sent to users incorrectly or not at all.",
+    "priority": "high",
+    "category": "other"
+  },
+  {
+    "title": "Website Layout Issues",
+    "description": "Our website's layout is inconsistent across different pages, causing visual confusion for users.",
+    "priority": "medium",
+    "category": "other"
+  },
+  {
+    "title": "Unsupported Browser Versions",
+    "description": "We are experiencing issues with older browser versions not supporting our website's features.",
+    "priority": "low",
+    "category": "other"
+  },
+  {
+    "title": "Missing Security Updates",
+    "description": "Our website is missing the latest security updates, leaving it vulnerable to potential attacks.",
+    "priority": "high",
+    "category": "other"
+  },
+  {
+    "title": "Incorrect Domain Names",
+    "description": "We need help correcting incorrect domain names displayed on our website.",
+    "priority": "medium",
+    "category": "other"
+  },
+  {
+    "title": "Website Compatibility Issues",
+    "description": "Our website is not compatible with certain devices or screen sizes, causing issues for users.",
+    "priority": "low",
+    "category": "other"
+  },
+  {
+    "title": "Missing Analytics Data",
+    "description": "We need help setting up analytics to track user behavior and monitor performance.",
+    "priority": "medium",
+    "category": "other"
+  },
+  {
+    "title": "Website Redirect Loop",
+    "description": "Our website is experiencing a redirect loop, causing users to be redirected repeatedly before loading the intended page.",
+    "priority": "high",
+    "category": "other"
+  }
+]
