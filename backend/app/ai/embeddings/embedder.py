@@ -12,9 +12,13 @@ These embeddings enable:
 """
 
 from typing import List, Optional
-from sentence_transformers import SentenceTransformer
 import numpy as np
 
+try:
+    from sentence_transformers import SentenceTransformer
+    HAS_TRANSFORMERS = True
+except ImportError:
+    HAS_TRANSFORMERS = False
 
 class Embedder:
     """
@@ -40,7 +44,9 @@ class Embedder:
         immediately.
         """
         self.model_name = model_name
-        self._model: Optional[SentenceTransformer] = None
+        self._model = None
+        if not HAS_TRANSFORMERS:
+            print("WARNING: sentence-transformers not installed. Embedding features disabled.")
     
     @property
     def model(self) -> SentenceTransformer:
@@ -56,17 +62,14 @@ class Embedder:
             print("Model loaded successfully")
         return self._model
     
-    def embed_text(self, text: str) -> List[float]:
-        """
-        Convert a single text to an embedding vector.
+    def embed_text(self, text: str):
+        if not HAS_TRANSFORMERS:
+            return [0.0] * 384  # Return dummy embedding
         
-        Args:
-            text: Any string (ticket title, description, etc.)
+        if self._model is None:
+            self._model = SentenceTransformer(self.model_name)
         
-        Returns:
-            List of 384 floating-point numbers
-        """
-        embedding = self.model.encode(text, normalize_embeddings=True)
+        embedding = self._model.encode(text, normalize_embeddings=True)
         return embedding.tolist()
     
     def embed_texts(self, texts: List[str]) -> List[List[float]]:
